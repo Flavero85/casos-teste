@@ -1,7 +1,7 @@
 {
   "name": "casos-teste",
   "version": "1.0.0",
-  "description": "exemplos de testes",
+  "description": "vamos escrever casos de teste utilizando o Jest aplicando em um projeto Node.js",
   "main": "index.js",
   "scripts": {
     "test": "jest"
